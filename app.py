@@ -6,8 +6,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from groq import Groq
 from sentence_transformers import SentenceTransformer
 
-# --- Configuration ---
-DB_FILENAME = "vector_database.joblib"
+# --- Configuration (Updated to match your clean file rename) ---
+DB_FILENAME = "vec_db.joblib"
 
 # --- Page Config & Theme Styling ---
 st.set_page_config(page_title="EduNexus AI Workspace", page_icon="🧠", layout="wide")
