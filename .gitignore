@@ -1,0 +1,8 @@
+__pycache__/
+processed_embeddings.csv
+videos/
+audios/
+whisper/
+unused/
+*.mp4
+*.json
